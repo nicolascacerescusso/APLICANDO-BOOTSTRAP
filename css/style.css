@@ -28,12 +28,9 @@ body{
 .main-h1{
     justify-content: center;
     text-align: center;
-    margin: 1em;
 }
 
 .h2-redes{
-    justify-content: center;
-    text-align: center;
     margin: 3em;
 }
 footer{
@@ -42,3 +39,9 @@ footer{
     margin: 3rem;
 }
 
+
+.img-fluid{
+    justify-content: center;
+    text-align: center;
+    margin: 3rem;   
+}
